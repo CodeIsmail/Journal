@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Journal</string>
+    <string name="favorite">favorite</string>
+    <string name="item_detail">Detail</string>
+    <string name="item_title">Title</string>
+    <string name="item_date_time">06/29/2018 . 21:44</string>
+</resources>
