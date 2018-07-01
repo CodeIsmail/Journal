@@ -4,4 +4,6 @@
     <string name="item_detail">Detail</string>
     <string name="item_title">Title</string>
     <string name="item_date_time">06/29/2018 . 21:44</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="search">Search</string>
 </resources>
